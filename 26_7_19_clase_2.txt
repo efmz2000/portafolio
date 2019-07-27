@@ -1,0 +1,70 @@
+26/7/19
+
+-Se empezó a hablar acerca de los objetos, definiendolos como algo tangible al que se le pueden dar caracteristicas,
+ademas que este puede llegar a realizar acciones. En otras palabras los objetos son los que tienen atributos 
+y comportamientos
+** para que algo sea considerado un atributo y no un objeto debe de ser una variable **
+	ejemplo: la puerta de un auto
+		vista desde la perspectiva del auto es un objeto el cual yo puedo hacer 
+		que se abra o se cierre y esta a su vez tiene atributos como el color y 
+		la forma en que se abre.
+
+-Luego se habló sobre que es un paradigma que se definio como una forma para resolver problemas
+ por medio del desarrollo del software.
+
+-Pero de una manera mas a fin a la carre se habla de tres puntos para definir un paradigma:
+	1.Es un estilo fundamental de programación.
+	2.Es una forma de construir estructuras y elementos de programación.
+	3.Es la forma en que el lenguaje ve al mundo.
+
+-Se habla de cuatro paradigmas de programacion:
+ 1.Funcional
+	Utiliza fundamentalmente FUNCIONES
+	*Scheme *Lisp *F#
+ 2.Imperativo 
+	Utiliza ESTRUCTURAS
+	*C *C++ *PHP
+ 3.Lógico
+	Utiliza REGLAS
+	*Prolog
+ 4.Orientado a objetos
+	Utiliza objetos
+	*Java *C++ *C# *Smalltalk
+
+-Paradigma Orientado a Objetos.
+	ANALIZA, DISEÑA y CONSTRUYE programas a  partir de objetos
+	*Se debe de IDENTIFICAR, CARACTERIZAR  Y ESTABLECER LAS ERLACIONES DE OBJETOS
+ 
+-Se hablo sobre algunos conceptos del Paradigma Orientado a Objetos como: 
+	*BASTRACCIÓN -> siendo esta una REPRESENTACION no exacta de la realidad. 
+	Omitiendo detalles y enfocandose en lo importante.
+	
+	*Encapsulamiento -> Se trata de tomar acomodar los datos y los métodos de una estructura 
+	para evitar que otro metodo ajeno a este objeto modifique esta informacion.1
+	
+	*Clases -> La clase es un molde para luego crear objetos en base a estas. Definiendo
+	los atributos que deben tener los objetos y los metodos que se prodran realizar
+
+	*Atributos -> Los atributos son caracteristicas especificas de cada objeto para poder 
+	diferenciarlo
+
+	*Métodos -> Los metodos son instrucciones que se le pueden dar  a los objetos para 
+	modificar o revisar sus datos 
+
+	*Instancias -> las instancias es una represenentacion de un objeto creado a partir de 
+	una clase
+
+	*Herencia -> La herencia es el uso de los atributos de una clase pre-existente para la 
+	creación de una nueva clase. Este metodo da la oportunidad de tener caracteristicas y
+	metodos de la clase anterior como crear nuevas para esta nueva 
+
+	**Polimorfismo -> el polimorfismo es la capacidad de los objetos de poder usar una funcion 
+	ya establecida en otra clase dandoles otros parametros
+
+definicion de encapsulamiento tomada de https://es.ccm.net/contents/410-poo-encapsulacion-de-datos
+definicion de clase tomada de https://aprendiendoarduino.wordpress.com/2017/07/08/clases-y-objetos/
+definicion de atributo tomada de https://www.ecured.cu/Atributo_(inform%C3%A1tica)
+definicion de método tomada de https://www.digitallearning.es/intro-programacion-js/objetos-propiedades-metodos.html
+definicion de instancia tomada de https://es.stackoverflow.com/questions/7576/que-es-una-instancia-poo
+definicion de herencia tomada de https://es.ccm.net/contents/411-poo-herencia
+definicion de polimorfismo tomada dehttps://damian02.wordpress.com/polimorfismo-poo/
